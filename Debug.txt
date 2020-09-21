@@ -1,0 +1,18 @@
+1111111
+Путь: /
+Свойство: rw DebugWindowCount (Количество debug-окон) - Число запущенных debug-окон
+
+Путь: /UserSettings
+Свойство: rw UseSecondMonitor (Use second monitor) - Show program main window on second monitor
+Свойство: rw WorkMode (Work mode) - Preferred program mode
+Свойство: rw LastExportDir (LastExportDir) - Last Export Dir
+
+Путь: /UserSettings/DopplerUserSettings
+Свойство: rw ShowDIndexesInKHz (Show D-indexes In kHz) - Show D-indexes In kHz
+
+Путь: /Hardware
+Свойство: rw SoundVolume (Volume) - Sound volume
+Свойство: ro IsHardwarePresent (Работа с аппаратурой) - Is real hardware present, or just emulate it
+Свойство: rw NumOfHWChannels (HW Channels Count) - Number of hardware channels
+Свойство: rw HWMode (HW Test Mode) - Hardware work mode
+Свойство: rw Active_HWChannelParams (Индекс активного узла) - Переключение активного дочернего объекта
