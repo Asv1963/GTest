@@ -3,3 +3,5 @@
 file1.doc
 *.obj
 *.pch
+
+*.idl
