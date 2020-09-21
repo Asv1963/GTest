@@ -3,4 +3,9 @@
 file1.doc
 *.obj
 *.pch
+<<<<<<< HEAD
 *.map
+=======
+
+*.idl
+>>>>>>> First-Branch
